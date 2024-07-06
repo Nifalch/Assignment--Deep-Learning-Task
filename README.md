@@ -1,6 +1,6 @@
 # Assignment--Deep-Learning-Task
 
-Overview
+## Overview
 This task is centered around the analysis of EEG data to classify different cognitive states
 using advanced deep learning techniques. The data is sourced from the Mental Arithmetic
 Tasks Dataset available at PhysioNet (https://physionet.org/content/eegmat/1.0.0/). The
